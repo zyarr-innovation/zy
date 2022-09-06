@@ -1,0 +1,15 @@
+.example-container {
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  justify-content:space-around; 
+}
+
+mat-card {
+  height: 200px;
+  width: 400px;
+  margin:1em;
+}
+h1 , h3{
+  text-align: center;
+}
