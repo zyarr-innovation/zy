@@ -3,11 +3,9 @@
   flex-flow: row;
   flex-wrap: wrap;
   justify-content:space-around; 
-  max-height: 2000px;
-  min-width: 300px;
 }
 mat-card {
-  height: 200px;
+  height: auto ;
   width: 400px;
   margin:1em;
 }

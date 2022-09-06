@@ -5,10 +5,10 @@
   min-width: 300px;
 }
   
-.mat-table {
-  overflow:auto;
-  max-height: 500px;
-}
 h1 , h2 , h3 , h4 , h5 , h6 {
   text-align: center;
+}
+
+mat-card-content {
+  text-align: left;
 }
